@@ -222,6 +222,7 @@ header {
   letter-spacing: 0.048em;
   color: #E4E5EA;
   border: none;
+  cursor: pointer;
 }
 
 /* FOOTER */
